@@ -2,9 +2,11 @@
 - 👀 I’m interested in sustainability, nature's recovery,nature conservation, sustainable food production, tecnological support for previews subjects.
 - 🌱 I’m currently publishing my *Hydroponic home machine for balcony*... 
 This is a Complete solution from design to hardware and software. This repository has subdirectories for
-each subsystem. <br>We have some draws of structure and pictures of final result in <a href=./Structure>Structure</a>.<br>
-We have a picture of the water pump in <a href=./Pump>Pump</a>.<br> The power source is 24 volts source and
-a dc-dc step down ajusted in 12v for the pump and a 5v regulator BP5293 for Arduino and RPI detailed <a href=./PowerSource>here</a>. The system has been running for almost one year and is productioning tomatoes and spices (20 May 2020).
+each subsystem. <br>
+&nbsp;&nbsp; We have some draws of structure and pictures of final result in <a href=./Structure>Structure</a>.<br>
+&nbsp;&nbsp; We have a picture of the water pump in <a href=./Pump>Pump</a>.<br> 
+&nbsp;&nbsp; The power source is 24 volts source and a dc-dc step down ajusted in 12v for the pump and a 5v regulator BP5293 for Arduino and RPI detailed <a href=./PowerSource>here</a>.<br>
+The system has been running for almost one year and is productioning tomatoes and spices (20 May 2020).
 - 💞️ I’m looking to collaborate on sustainability, nature's recovery,nature conservation, sustainable food production, tecnological support for previews subjects.
 - 📫 How to reach me, pedro at tfx.eco.br
 

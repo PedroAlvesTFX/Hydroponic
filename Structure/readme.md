@@ -1,2 +1,4 @@
 The final result is a system capable to grow spicies and also a small tomato plant.
 <br><img src=./Final-version.jpg width=600><br>
+<img src=./results-tomatoes.jpg width=600><br>
+
